@@ -213,6 +213,8 @@ p{
   box-shadow:0 10px 25px rgba(0,0,0,0.15);
   width:180px;
   transition:0.3s;
+  scroll-margin-top:120px;
+
 }
 
 .product-card:hover{
