@@ -55,7 +55,7 @@ border-radius:20px;
 /* text style */
 h1{
   letter-spacing:5px;
-  font-size:30px;
+  font-size:20px;
   font-weight:normal;
 color:#974683;
 letter-spacing:8px;
@@ -64,7 +64,7 @@ line-height:1.2;
 }
 
 h2{
-  font-size:50px;
+  font-size:30px;
   letter-spacing:5px;
   margin:20px 0;
   color:#771b5c;
