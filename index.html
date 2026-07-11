@@ -540,6 +540,16 @@ categories.forEach(category => {
 
         showProducts(selectedCategory);
 
+        // أول produit من catégorie المختارة
+        const firstProduct = document.querySelector("." + selectedCategory);
+
+        if(firstProduct){
+            firstProduct.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+        }
+
     });
 
 });
